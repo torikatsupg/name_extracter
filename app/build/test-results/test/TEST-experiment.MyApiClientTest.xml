@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="experiment.MyApiClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-20T14:47:08" hostname="torikatsuMBP.local" time="2.048">
+  <properties/>
+  <testcase name="fetchRepoList" classname="experiment.MyApiClientTest" time="2.048"/>
+  <system-out><![CDATA[TheAlgorithms/Java
+DuGuQiuBai/Java
+Snailclimb/JavaGuide
+hmkcode/Java
+HelloWorld521/Java
+kubernetes-client/java
+gaopu/Java
+pubnub/java
+singgel/JAVA
+json-iterator/java
+sous-chefs/java
+dockerfile/java
+wesbos/JavaScript30
+bjmashibing/java
+airbnb/javascript
+chenhaoxiang/Java
+AobingJava/JavaFamily
+exercism/java
+structurizr/java
+trekhleb/javascript-algorithms
+doocs/advanced-java
+winterbe/java8-tutorial
+iluwatar/java-design-patterns
+joeyajames/Java
+DuHouAn/Java
+lenve/JavaEETest
+bottleleung/Java
+ReactiveX/RxJava
+17mon/java
+akullpp/awesome-java
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="experiment.DownloaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-20T14:47:10" hostname="torikatsuMBP.local" time="0.996">
+  <properties/>
+  <testcase name="download" classname="experiment.DownloaderTest" time="0.996"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
